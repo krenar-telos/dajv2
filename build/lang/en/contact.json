@@ -12,9 +12,14 @@
   "email": "E-Mail Adress",
   "phone": "Phone Number",
 
+  "error": "Error sending the message. Please try again.",
+  "success": "Your message has been sent successfully! Thank you.",
+  
   "reference": "Reference",
   "message": "Message",
 
   "data": "Declaration of consent and data protection",
-  "accept": "View and accept"
+  "accept": "View and accept",
+
+  "find-info": "You can find information about the processing of your personal data in our <1>privacy policy</1>."
 }

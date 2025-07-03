@@ -9,6 +9,9 @@
   "name": "Vorname",
   "surname": "Nachname",
 
+  "error": "Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut.",
+  "success":"Nachricht erfolgreich gesendet! Vielen Dank.",
+
   "email": "E-Mail-Adresse",
   "phone": "Telefon",
 
@@ -16,5 +19,7 @@
   "message": "Ihre Nachricht",
 
   "data": "Einverständniserklärung und Datenschutz",
-  "accept": "Anzeigen und akzeptieren"
+  "accept": "Anzeigen und akzeptieren",
+
+  "find-info": "Informationen zur Verarbeitung Ihrer personenbezogenen Daten finden Sie in unseren <1>Datenschutzhinweisen</1>."
 }

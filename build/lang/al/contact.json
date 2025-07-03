@@ -9,6 +9,9 @@
   "name": "Emri",
   "surname": "Mbiemri",
 
+  "error": "Gabim gjatë dërgimit të mesazhit. Provo sërish.",
+  "success": "Mesazhi juaj u dërgua me sukses!",
+  
   "email": "Email Addresa",
   "phone": "Numri i Telefonit",
 
@@ -16,5 +19,7 @@
   "message": "Mesazhi",
 
   "data": "Deklarata e pëlqimit dhe mbrojtja e të dhënave",
-  "accept": "Shiko dhe prano"
+  "accept": "Shiko dhe prano",
+
+  "find-info": "Mund të gjeni informacione rreth përpunimit të të dhënave tuaja personale në <1>politikën tonë të privatësisë</1>."
 }
