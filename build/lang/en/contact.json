@@ -2,6 +2,7 @@
   "contact": "Contact",
   "title": "We look forward to hearing from you",
   "text": "Do you have questions about our work, want to network, or get involved? Write to us – we’ll get back to you promptly!",
+  "membershipInfo": "Annual membership fees:\n\nRegular member:\n€100.00\nStudents / trainee lawyers / doctoral candidates: €30.00\n\nPlease click here to view the statutes: <0>DALJV</0> Statutes",
 
   "salutation": "How should we address you?",
   "title1": "Title",
@@ -17,6 +18,8 @@
   
   "reference": "Reference",
   "message": "Message",
+  "sending": "Sending...",
+  "submit": "Send",
 
   "data": "Declaration of consent and data protection",
   "accept": "View and accept",

@@ -2,6 +2,7 @@
   "contact": "Kontakt",
   "title": "Presim me kënaqësi të dëgjojmë nga ju",
   "text":"Keni pyetje rreth punës sonë, dëshironi të lidheni me ne ose të bashkëpunoni? Na shkruani – ne do t’ju përgjigjemi shpejt!",
+  "membershipInfo": "Kuotat vjetore të anëtarësisë:\n\nAnëtar i rregullt:\n100,00 Euro\nStudentë / referendarë / doktorandë: 30,00 Euro\n\nJu lutemi klikoni këtu për të parë statutin: Statuti i <0>DALJV</0>",
 
   "salutation": "Si duhet t'ju drejtohemi?",
   "title1": "Titulli",
@@ -17,6 +18,8 @@
 
   "reference": "Referenca",
   "message": "Mesazhi",
+  "sending": "Duke dërguar...",
+  "submit": "Dërgo",
 
   "data": "Deklarata e pëlqimit dhe mbrojtja e të dhënave",
   "accept": "Shiko dhe prano",
